@@ -1,0 +1,22 @@
+{
+"products":[
+{ "name":"One plus Mobile",
+  "price":30000,
+  "color":"black",
+  "img":"https://static.toiimg.com/thumb/msid-65707375,width-240,resizemode-4,imgv-12/OnePlus-7.jpg"
+},
+{ "name":"Nike T-shirt",
+  "price":1000,
+  "color":"blue",
+  "img":"https://images.stockx.com/images/FEAR-OF-GOD-x-Nike-Air-Fear-of-God-T-Shirt-White_01-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1610418353"
+},
+{ "name":"Adidas shoes",
+  "price":2000,
+  "color":"black",
+  "img":"https://rukminim1.flixcart.com/image/332/398/kg8avm80-0/shoe/l/h/2/ew2449-adidas-cblack-ftwwht-original-imafwgsgzrx5tdcg.jpeg?q=50"
+},{ "name":"Sony TV",
+  "price":4000,
+  "color":"black",
+  "img":"https://i.gadgets360cdn.com/products/televisions/large/1548155169_832_sony_32-inch-led-full-hd-tv-klv-32w672f.jpg"
+}
+ ]
